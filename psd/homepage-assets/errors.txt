@@ -1,0 +1,2 @@
+[Thu May 26 2016 18:06:05 GMT+0300 (EEST)] layer "+40749595388": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Thu May 26 2016 18:06:05 GMT+0300 (EEST)] layer "+40749595388": Expected Either a default asset specification or a layer asset specification but "+" found.
