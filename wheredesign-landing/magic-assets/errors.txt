@@ -1,0 +1,1 @@
+[Tue Jun 07 2016 11:06:48 GMT+0300 (GTB Daylight Time)] layer " info@canvas.com ·   +91-11-6541-6369 ·        CanvasOnSkype": Expected end of input but "\xB7" found.
